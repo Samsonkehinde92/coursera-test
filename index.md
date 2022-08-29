@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+GRACE MUSICAL TRAINING INSTITUTE
+GROW as true worshipper...
 
 You can use the [editor on GitHub](https://github.com/samsonkekinde/coursera-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+GOD'S LOVE IS GREATER THAN ANY OTHER MAN'S LOVE{CHRIST DIED FOR ALL AND LOVE ALL}
 ## Header 2
 ### Header 3
 
